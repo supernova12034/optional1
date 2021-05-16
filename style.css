@@ -1,0 +1,11 @@
+.main_g{
+    display: grid;
+    margin-left: 10%;
+    margin-right: 58%;
+}
+
+.small{
+
+    font-size: 12px;
+color: rgb(85, 85, 85);
+}
