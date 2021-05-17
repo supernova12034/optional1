@@ -4,6 +4,12 @@
     margin-right: 58%;
 }
 
+.top_links{
+margin-left: 10%;
+display: grid;
+grid-template-columns: 100px 100px 100px 100px 100px 200px 100px 100px;
+}
+
 .small{
 
     font-size: 12px;
