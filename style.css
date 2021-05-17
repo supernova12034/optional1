@@ -7,8 +7,16 @@
 .top_links{
 margin-left: 10%;
 display: grid;
-grid-template-columns: 100px 100px 100px 100px 100px 200px 100px 100px;
+grid-template-columns: 60px 60px 60px 60px 60px 165px 60px 60px;
+
+font-size: 12px;
+margin-right: 20%;
 }
+
+.link{
+    text-decoration: none;
+}
+
 
 .small{
 
