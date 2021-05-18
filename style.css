@@ -6,7 +6,8 @@
 .icon1{
     width:5%;   /*Controls google icon. */
     position: relative;
-    top: 30px
+    top: 30px;
+    left:20px;
 }
 .top_links{
 margin-left: 10%;
@@ -29,5 +30,6 @@ color: rgb(85, 85, 85);
 }
 
 #g_search{
-    margin-left: 200px;
+    margin-left: 170px;
+    width: 600px;
 }
