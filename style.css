@@ -60,9 +60,17 @@ width: 25px;
 for efficiency and appropriate */
 }
 
+.b1:hover{
+background-color:#4e9afd ;
+
+}
+
 .b1{
     margin-left: 53%;
     color: white;
-    background-color: #338cff;
+    background-color: #2483ff;
+    height: 38px;
+    width: 95px;
+    border-radius: 10%;
 
 }
