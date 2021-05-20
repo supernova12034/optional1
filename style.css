@@ -6,13 +6,13 @@
 .icon1{
     width:5%;   /*Controls google icon. */
     position: relative;
-    top: 30px;
+    top: 40px;
     left:20px;
 }
 .top_links{
 margin-left: 10%;
 display: grid;
-grid-template-columns: 40px 60px 60px 60px 80px 165px 60px 60px;
+grid-template-columns: 30px 60px 30px 60px 30px 65px 30px 60px;
 
 font-size: 12px;
 margin-right: 20%;
