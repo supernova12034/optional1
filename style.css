@@ -12,10 +12,18 @@
 .top_links{
 margin-left: 10%;
 display: grid;
-grid-template-columns: 30px 60px 30px 60px 30px 65px 30px 60px 30px 75px 30px 50px;
-
+grid-template-columns: 30px 40px 30px 60px 30px 65px 30px 60px 30px 75px 20px 50px 70px 50px;
 font-size: 12px;
 margin-right: 20%;
+align-items: center;
+}
+
+.g{
+margin-left: 40px;
+}
+
+.h{
+margin-left: 40px;
 }
 
 .link{
