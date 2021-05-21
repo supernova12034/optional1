@@ -80,3 +80,9 @@ background-color:#4e9afd ;
 .search{
     margin-bottom: -2%;
 }
+.footer{
+    display: grid;
+    grid-template-columns: 400px 200px 100px 100px;
+    grid-template-rows: 50px 80px;
+
+}
