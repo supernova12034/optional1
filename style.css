@@ -81,8 +81,9 @@ background-color:#4e9afd ;
     margin-bottom: -2%;
 }
 .footer{
+    margin-left: 10%;
     display: grid;
-    grid-template-columns: 400px 200px 100px 100px;
+    grid-template-columns: 400px 180px 200px 100px;
     grid-template-rows: 50px 80px;
 
 }
