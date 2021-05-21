@@ -44,7 +44,7 @@ box-shadow:2px 2px 2px rgb(199, 199, 199);
 #g_search{
     border-radius: 0%;
     margin-left: 170px;
-    width: 600px;
+    width: 700px;
     background-image: url(https://img.icons8.com/android/24/000000/search.png);
     background-size: 3%;
     background-repeat: no-repeat;
@@ -75,4 +75,8 @@ background-color:#4e9afd ;
     position: relative;
     bottom: 46px;
 
+}
+
+.search{
+    margin-bottom: -2%;
 }
