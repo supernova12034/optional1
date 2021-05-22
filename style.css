@@ -83,9 +83,14 @@ background-color:#4e9afd ;
 .footer{
     margin-left: 10%;
     display: grid;
-    grid-template-columns: 400px 180px 200px 100px;
-    grid-template-rows: 50px 80px;
+    grid-template-columns: 70px 150px 80px 100px;
 
+}
+
+.pre-footer{
+    display: grid;
+    grid-template-columns: 400px 180px 120px;
+margin-left: 10%;
 }
 
 .row_one{
@@ -95,4 +100,12 @@ background-color:#4e9afd ;
 .row_two{
     grid-row: 2/3;
 
+}
+
+.row_three{
+   grid-row: 2/3;
+}
+
+.row_four{
+    grid-row: 2/3;    
 }
