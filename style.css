@@ -87,3 +87,12 @@ background-color:#4e9afd ;
     grid-template-rows: 50px 80px;
 
 }
+
+.row_one{
+    grid-row: 2/3;
+}
+
+.row_two{
+    grid-row: 2/3;
+
+}
