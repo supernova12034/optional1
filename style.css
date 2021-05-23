@@ -93,6 +93,16 @@ background-color:#4e9afd ;
 margin-left: 10%;
 }
 
+.parent-footer{
+    background-color: #eee;
+padding-bottom: 5%;
+padding-top: 2%;
+}
+
+.standard-link{
+    text-decoration: none;
+}
+
 .row_one{
     grid-row: 2/3;
 }
