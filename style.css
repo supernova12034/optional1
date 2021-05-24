@@ -1,3 +1,4 @@
+
 .main_g{
     display: grid;
     margin-left: 10%;
@@ -127,25 +128,33 @@ color: gray;
 The section below this is all lower google Icon
 */
 
+a{
+    text-decoration: none;
+}
+
 .para{
     font-size:35px;
   }
   
-  .a{
+  .ga{
     color:blue;
   }
   
-  .b{
+  .gb{
     color:rgb(255, 217, 0);
+    text-decoration: none;
   }
   
-  .c{
+  .gc{
   color:green;
   }
   
-  .e{
+  .ge{
     color:red;
+    text-decoration: none;
   }
 .icon2{
 
 }
+
+
