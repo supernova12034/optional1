@@ -154,7 +154,10 @@ a{
     text-decoration: none;
   }
 .icon2{
-
+display: grid;
+grid-template-columns: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px;
 }
 
+/*Continue tweaking the lower google icon tomorrow, we got a grid set up now just a matter of 
+placing the numbers under the letters. */
 
