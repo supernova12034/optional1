@@ -163,6 +163,17 @@ margin-left: 20%;
 margin-left: 2%;
 
 }
+
+.next{
+    margin-top:-55px;
+    width: 50px;
+margin-left: 18%;
+height: 50px;
+display: grid;
+grid-gap: 10px;
+justify-items: center;
+margin-bottom: 3%;
+}
 /*Continue tweaking the lower google icon tomorrow, we got a grid set up now just a matter of 
 placing the numbers under the letters. */
 
