@@ -154,10 +154,15 @@ a{
     text-decoration: none;
   }
 .icon2{
-display: grid;
+/* display: grid; */
 grid-template-columns: 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px 20px;
+margin-left: 20%;
 }
 
+.page_numbers{
+margin-left: 2%;
+
+}
 /*Continue tweaking the lower google icon tomorrow, we got a grid set up now just a matter of 
 placing the numbers under the letters. */
 
