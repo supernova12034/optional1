@@ -181,15 +181,6 @@ margin-bottom: 3%;
 }
 
 
-.drop-down{
-
-
-}
-
-.drop-parent{
-    /* display: grid; */
-}
-
 /*Controls the grid of the bubbles. */
 .float-container{
 display: grid;
@@ -208,3 +199,13 @@ margin-left: 10%;
     border-radius:50px/50px;
     text-align:center;
   }
+
+  /*Controls the search icon*/
+  .material-icons{
+    top: 10px;
+    position: relative;
+    color: grey;
+  }
+
+  /*Standardize the space around the search icon tomorrow.
+  */
