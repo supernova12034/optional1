@@ -190,4 +190,20 @@ margin-bottom: 3%;
     /* display: grid; */
 }
 
+/*Controls the grid of the bubbles. */
+.float-container{
+    display: grid;
+grid-template-columns: 200px 200px;
+grid-gap: 5px;
+justify-items: center;
+margin-left: 10%;
+}
 
+/*Controls the size of the bubbles */
+.floating-bubbles{
+    background-color:#eee;
+    width:200px;
+    height:50px;
+    border-radius:50px/50px;
+    text-align:center;
+  }
