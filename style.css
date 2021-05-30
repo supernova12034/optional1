@@ -183,11 +183,13 @@ margin-bottom: 3%;
 
 /*Controls the grid of the bubbles. */
 .float-container{
-display: grid;
-grid-template-columns: 300px 300px;
-grid-gap: 5px;
-justify-items: center;
-margin-left: 10%;
+    display: grid;
+    grid-template-columns: 220px 300px;
+    grid-gap: 5px;
+    justify-items: center;
+    margin-left: 12%;
+    margin-top: 1.5%;
+margin-bottom: 1.5%;
 }
 
 /*Controls the size of the bubbles */
@@ -205,6 +207,7 @@ margin-left: 10%;
     top: 10px;
     position: relative;
     color: grey;
+    margin-right: 10px;
   }
 
   /*Standardize the space around the search icon tomorrow.
