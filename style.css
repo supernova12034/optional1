@@ -218,5 +218,19 @@ margin-bottom: 1.5%;
   }
 
   .img-ad{
-      width: 15%;
+    width: 70px;
+    height: 70px;
+  }
+.weebly{
+    margin-top: 0px;
+    margin-bottom: 0px;
+width:70px;
+}
+
+  .related{
+
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px;
+    justify-items: center;
   }
