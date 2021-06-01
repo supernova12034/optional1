@@ -240,3 +240,17 @@ width:70px;
     height: 50px;
     width: 50px;
   }
+
+
+.see-more:hover{
+    background-color: rgb(236, 236, 236);
+}
+
+  .see-more{
+    font-size: 15px;
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 50px;
+    border-radius: 50px/50px;
+    text-align: center;
+  }
