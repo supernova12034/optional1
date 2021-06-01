@@ -230,7 +230,7 @@ width:70px;
   .related{
 
     display: grid;
-    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px;
     grid-template-rows: 100px;
     justify-items: center;
     grid-gap: 15px;
