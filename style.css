@@ -256,3 +256,8 @@ width:70px;
     border: 1px solid #d5d5d5;
     margin-left: 350px;
 }
+
+.related-two{
+    display: grid;
+grid-template-columns: 100px 100px 100px 100px 100px 100px;
+}
