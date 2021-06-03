@@ -1,5 +1,5 @@
 hr{
-   width:100%; 
+   width:680px; 
   color: antiquewhite;
 }
 
@@ -260,4 +260,5 @@ width:70px;
 .related-two{
     display: grid;
 grid-template-columns: 100px 100px 100px 100px 80px 100px;
+grid-gap: 10px;
 }
